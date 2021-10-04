@@ -1,0 +1,10 @@
+.about {
+  background-color: #5cdb95;
+  padding: 100px;
+  height: 350px;
+}
+.about h1 {
+  color: white;
+  text-align: center;
+  font-size: 6rem;
+}
